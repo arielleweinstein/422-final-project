@@ -12,7 +12,7 @@ There is a .gitignore file for ignoring files such as .DS_Store and .ipynb_check
 
 There is a .yml file titled 422final.yml that contains all of the packages and variables necessary to run the code. This is mainly for the necessary packages that the code uses and the variables for signing into the MLDS SQL server. 
 
-# To Run
+## To Run
 Set your environment variables to be your Northwestern NETID login information. You can run the following commands in your terminal and then reactivate the environment to set the variables:
 ```bash
 conda env config vars set USER=<your username here>
